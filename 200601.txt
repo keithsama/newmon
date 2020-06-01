@@ -1,4 +1,8 @@
 0601
+add-new-file
+
+nande hanei sareteinakatta
+?
 end
 till
 done
@@ -6,5 +10,4 @@ done
 
 local again
 
-kondoha add^new-fileから
-
+kondoha add-new-file
