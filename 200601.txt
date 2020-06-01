@@ -6,3 +6,5 @@ done
 
 local again
 
+kondoha add^new-fileから
+
